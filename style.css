@@ -1,0 +1,29 @@
+.container {
+  margin: 0 20%;
+  padding-top: 3rem;
+
+  font-family: sans-serif;
+}
+
+.mt {
+  margin-top: 3rem;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.card {
+  width: 25%;
+  height: 200px;
+  border: 1px solid black;
+  padding: 1rem;
+  margin-left: 10px;
+}
